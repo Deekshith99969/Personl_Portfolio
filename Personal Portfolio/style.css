@@ -200,14 +200,14 @@ header ul a:hover{
 
 
 #addone{
-   border: 3px solid rgb(17, 8, 94);
+   border: 12px solid rgba(6, 14, 87, 0.596);
    background-color: #0100039c;
     width: 600px;
     height: 600px;
    margin-right: 90px;
     border-radius: 40%  0% ;
-    box-shadow: 0 0 60px #f6f7f863;
- animation: dragon 3s alternate infinite;
+    box-shadow: 0 0 60px #5a5a85fb;
+ animation: dragon 2.5s alternate infinite;
 
 }
 
